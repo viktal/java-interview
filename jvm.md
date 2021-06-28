@@ -6,7 +6,8 @@
 + [Execution Engine](jvm.md#Execution-Engine)
 + [Полезные ссылки](jvm.md#Полезные-ссылки)
 
-![image](https://user-images.githubusercontent.com/56442323/122207229-9553ee80-ceaa-11eb-961b-9cf5fb5f4670.png)
+![image](https://user-images.githubusercontent.com/56442323/123597712-59028580-d7fc-11eb-8067-b5a336ead9ef.png)
+
 
 ## За что отвечает _JVM_:
 
